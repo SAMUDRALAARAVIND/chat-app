@@ -1,5 +1,5 @@
 
-const socket = io("https://aravind-rajesh.herokuapp.com/");
+const socket = io("https://chat-node-app-nela.onrender.com//");
 {/* <div class="incoming_msg">
               <div class="incoming_msg_img"> <img src="https://ptetutorials.com/images/user-profile.png" alt="sunil"> </div>
               <div class="received_msg">
